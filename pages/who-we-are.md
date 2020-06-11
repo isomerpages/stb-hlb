@@ -29,7 +29,7 @@ Member, Urban Redevelopment Authority<br>
 Member, Singapore Tourism Board<br>
 [tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
 
-**DAC Lim Wei-Yang Julius**<br>
+**AC Lim Wei-Yang Julius**<br>
 Member, Singapore Police Force<br>
 [julius_lim@spf.gov.sg](julius_lim@spf.gov.sg)
 
