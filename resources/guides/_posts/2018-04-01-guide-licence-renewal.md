@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Guide for Renewal of Licence"
-date:   2019-10-01
+date:   2020-09-16
 file_url: "/files/resources/guides/guide-licence-renewal.pdf"
 ---
