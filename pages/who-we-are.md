@@ -33,6 +33,6 @@ Member, Singapore Tourism Board<br>
 Member, Singapore Police Force<br>
 [julius_lim@spf.gov.sg](julius_lim@spf.gov.sg)
 
-**SAC Lian Wee Teck**<br>
+**AC Tan Hock Guan, Derek,  PPA(G)**<br>
 Member, Singapore Civil Defence Force<br>
-[lian_wee_teck@scdf.gov.sg](lian_wee_teck@scdf.gov.sg)
+[derek_tan@scdf.gov.sg](derek_tan@scdf.gov.sg)
