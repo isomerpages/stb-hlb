@@ -26,10 +26,6 @@ The proposed Hotel-Keeper:
     <td>Processing Time</td>
     <td>Minimum of 2 weeks upon receipt of all the documents required</td>
   </tr>
-  <tr>
-    <td>Change of Hotel-Keeper Licence Fees*</td>
-    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br><br>  *Note: Licence fees related to new, amendment, and renewal applications that are payable for the rest of 2020 will be <b> waived </b> to help mitigate the impact of Coronavirus Disease 2019 (COVID-19).</td>
-  </tr>
 </table>
 
 ### **Submission of Application**
