@@ -26,6 +26,9 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
     <td>Application Period</td>
     <td>Last quarter of the calendar year</td> 
   </tr>
+    <td>Hotel Licence Renewal Fees</td>
+    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
+  </tr>
 </table>
 
 ### **Submission of Applications**

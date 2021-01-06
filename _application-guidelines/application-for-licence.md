@@ -16,7 +16,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 > Note: 
 > * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
-> * The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
+> * The hotel can only begin operations after it has paid for and received the e-copies of the Certificate and Licence.
 
 ### **At A Glance**
 
@@ -28,6 +28,9 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
   <tr>
     <td>Processing Time</td>
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
+  </tr>
+    <td>Annual Licence Fees</td>
+    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100</td>
   </tr>
 </table>
 
@@ -70,14 +73,14 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  8. Processing of the application will take a minimum of two weeks from the pre-opening inspection date. 
 
- 9. You will be informed via SMS and/or e-mail if your application has been approved. 
+ 9. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}. Fees for both the Certificate of Registration and Hotel-keeper's Licence must be paid via the GoBusiness Licensing Portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application.  
  
-10. After the application has been approved, you may proceed to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
+ 10. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 
-11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
+ 11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
 ### **For More Information**
 
-12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-new-application.pdf).
+ 12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-new-application.pdf).
 
-13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.        
+ 13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.        
