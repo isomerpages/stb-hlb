@@ -29,6 +29,9 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Processing Time</td>
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
+    <td>Annual Licence Fees</td>
+    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100</td>
+  </tr>
 </table>
 
 ### **Submission of Application**
