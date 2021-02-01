@@ -24,7 +24,6 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
   </tr>
     <td>Change of Hotel Name Fees</td>
     <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br></td>
-  </tr>
 </table>
 
 ### **Submission of Application**
