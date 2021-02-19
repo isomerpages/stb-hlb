@@ -29,10 +29,6 @@ Member, Urban Redevelopment Authority<br>
 Member, Singapore Tourism Board<br>
 [tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
 
-**AC Lim Wei-Yang Julius**<br>
-Member, Singapore Police Force<br>
-[julius_lim@spf.gov.sg](julius_lim@spf.gov.sg)
-
 **AC Tan Hock Guan, Derek,  PPA(G)**<br>
 Member, Singapore Civil Defence Force<br>
 [derek_tan@scdf.gov.sg](derek_tan@scdf.gov.sg)
