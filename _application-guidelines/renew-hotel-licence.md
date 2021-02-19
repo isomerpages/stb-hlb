@@ -36,7 +36,7 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
 
 ### **Approval Process**
 
-2. You will be informed via SMS and/or e-mail if your application has been approved. You are required to print the Certificate of Registration and/or Hotel-keeper's licence via GoBusiness. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
+2. You will be informed via SMS and/or e-mail if your application has been approved. You are required to print the Certificate of Registration and/or Hotel-keeper's licence via GoBusiness. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
 
 3. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a renewal of the Certificate of Registration and/or a Hotel-Keeper's Licence.
 
