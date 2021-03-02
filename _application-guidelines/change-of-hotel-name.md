@@ -22,7 +22,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
     <td>Processing Time</td>
     <td>Minimum of two weeks following fourteen(14) days from the day of the advertisements.</td>
   </tr>
-    <td>Change of Hotel Name Fees</td>
+    <td>Change of Hotel Name Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications <br>that are payable between 1 Jan 2021 <br> to 31 Dec 2021 will be <b> waived </b> to help <br> mitigate the impact of COVID-19.</td></td>
     <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br></td>
 </table>
 
@@ -41,9 +41,9 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date when the e-notice is published on the HLB website.
 
-5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the GoBusiness Licensing Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application.  
+5. You will be informed via SMS and/or e-mail if your application has been approved. 
 
-6. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
+6. After the application has been approved, you may proceed to print the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
