@@ -26,7 +26,7 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
     <td>Application Period</td>
     <td>Last quarter of the calendar year</td> 
   </tr>
-    <td>Hotel Licence Renewal Fees</td>
+    <td>Hotel Licence Renewal Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications <br>that are payable between 1 Jan 2021 <br> to 31 Dec 2021 will be <b> waived </b> to help <br> mitigate the impact of COVID-19.</td></td>
     <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
 </table>
 
