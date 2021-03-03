@@ -16,7 +16,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 > Note: 
 > * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
-> * The hotel can only begin operations after it has paid for and received the e-copies of the Certificate and Licence.
+> * The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
 
 ### **At A Glance**
 
@@ -29,8 +29,8 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Processing Time</td>
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
-    <td>Annual Licence Fees</td>
-    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100</td>
+    <td>Annual Licence Fees*</td>
+    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
 </table>
 
 ### **Submission of Application**
@@ -72,9 +72,9 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  8. Processing of the application will take a minimum of two weeks from the pre-opening inspection date. 
 
- 9. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}. Fees for both the Certificate of Registration and Hotel-keeper's Licence must be paid via the GoBusiness Licensing Portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application.  
+ 9. You will be informed via SMS and/or e-mail if your application has been approved.   
  
- 10. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
+ 10. After the application has been approved, you may proceed to a print notification to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
 
  11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 

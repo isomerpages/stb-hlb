@@ -26,8 +26,8 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
     <td>Application Period</td>
     <td>Last quarter of the calendar year</td> 
   </tr>
-    <td>Hotel Licence Renewal Fees</td>
-    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
+    <td>Hotel Licence Renewal Fees*</td>
+    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100<br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
 </table>
 
 ### **Submission of Applications**
@@ -36,7 +36,7 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
 
 ### **Approval Process**
 
-2. You will be informed via SMS and/or e-mail if your application has been approved. You are required to print the Certificate of Registration and/or Hotel-keeper's licence via GoBusiness. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
+2. You will be informed via SMS and/or e-mail if your application has been approved. You are required to print the Certificate of Registration and/or Hotel-keeper's licence via GoBusiness. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
 
 3. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a renewal of the Certificate of Registration and/or a Hotel-Keeper's Licence.
 
