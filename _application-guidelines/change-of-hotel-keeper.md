@@ -27,8 +27,8 @@ The proposed Hotel-Keeper:
     <td>Minimum of 2 weeks upon receipt of all the documents required</td>
   </tr>
   <tr>
-    <td>Change of Hotel-Keeper Licence Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications <br>that are payable between 1 Jan 2021 <br> to 31 Dec 2021 will be <b> waived </b> to help <br> mitigate the impact of COVID-19.</td></td>
-    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100</td>
+    <td>Change of Hotel-Keeper Licence Fees*</td>
+    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
   </tr>
 </table>
 
