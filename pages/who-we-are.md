@@ -29,6 +29,10 @@ Member, Urban Redevelopment Authority<br>
 Member, Singapore Tourism Board<br>
 [tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
 
+**DAC Ng Kang Bee**<br>
+Member, Singapore Police Force<br>
+[ng_kang_bee@spf.gov.sg](ng_kang_bee@spf.gov.sg)
+
 **AC Tan Hock Guan, Derek,  PPA(G)**<br>
 Member, Singapore Civil Defence Force<br>
 [derek_tan@scdf.gov.sg](derek_tan@scdf.gov.sg)
