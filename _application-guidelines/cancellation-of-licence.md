@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/cancellation-of-licence/
-breadcrumb: Application Guidelines (Cancellation of Licence) 
-title: Cancellation of Licence
-collection_name: application-guidelines
+breadcrumb: 'Application Guidelines (Cancellation of Licence)'
+title: 'Cancellation of Licence'
+
 ---
+
 
 ### **Application for Cancellation of Certificate of Registration and Hotel-Keeper's Licence**
 
