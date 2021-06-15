@@ -5,15 +5,13 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #233a76;
-$secondary: #009688;
-$secondary-hover: #1fbbac;
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: darken($secondary, 10%);
+{%- for media-color in site.colors.media-colors -%}
+  ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
