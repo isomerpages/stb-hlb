@@ -7,7 +7,7 @@ safe: false
 resources_name: resources
 paginate: 12
 paginate_path: '/resources/page:num'
-custom_css_path: /do-not-touch/theme-colors/custom.css
+custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
   - travis-script.js
