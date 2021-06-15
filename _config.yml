@@ -31,7 +31,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://isomer-hlbgovsg-staging.netlify.com/
+staging: https://isomer-hlbgovsg-staging.netlify.app
+prod: https://isomer-hlbgovsg-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
