@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/application_for_exemption/
-title: Application for Exemption
-breadcrumb: Application Guidelines (Application for Exemption)
+title: 'Application for Exemption'
+breadcrumb: 'Application Guidelines (Application for Exemption)'
 last_updated: 01-04-2018
-collection_name: application-guidelines
+
 ---
+
 
 ### **Application for Exemption**
 
