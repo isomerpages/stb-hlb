@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Advertisement Template"
-permalink: "/resources/forms-and-template/Advertisement-Template"
+title: 'Advertisement Template'
+permalink: /resources/forms-and-template/Advertisement-Template
 category: Resources
-file: "files/resources/forms-and-templates/advertisement-template.doc"
+file: files/resources/forms-and-templates/advertisement-template.doc
+
 ---
+
 
 Advertisement Template
 ---
