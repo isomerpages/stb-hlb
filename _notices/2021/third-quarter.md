@@ -3,5 +3,22 @@ title: Third Quarter
 permalink: /notices/1a-2021-q3/
 third_nav_title: "2021"
 ---
-
-
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Hotel Name</th>
+    <th>Address</th>
+    <th>Notice</th>
+  </tr>
+    <tr>
+    <td>1 Jul 2021</td>
+    <td>Rucksack Inn @ Tyrwhitt</td>
+    <td>153 Tyrwhitt Road <br>Singapore 207566<br></td>
+    <td><a href="/files/Rucksack Inn at Tyrwhitt.pdf"></a></td>
+  </tr>
+    <tr>
+    <td>1 Jul 2021</td>
+    <td>The Daulat</td>
+    <td>16 Madras Street <br>Singapore 208413<br></td>
+    <td><a href="/files/The Daulat.pdf"></a></td>
+  </tr>
