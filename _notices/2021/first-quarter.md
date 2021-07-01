@@ -1,0 +1,52 @@
+---
+title: First Quarter
+permalink: /notices/1a-2021-q1/
+breadcrumb: Q1
+third_nav_title: "2021"
+---
+
+
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Hotel Name</th>
+    <th>Address</th>
+    <th>Notice</th>
+  </tr>
+    <tr>
+    <td>9 Feb 2021</td>
+    <td>K Hotel 1515</td>
+    <td>15 Lorong 15 Geylang <br>Singapore 388607<br></td>
+    <td><a href="/files/K Hotel 1515.pdf"></a></td>
+  </tr>
+    <tr>
+    <td>8 Feb 2021</td>
+    <td>Hotel Compass</td>
+    <td>36 Lor 22 Geylang <br>Singapore 398693<br></td>
+    <td><a href="/files/Hotel Compass(1).pdf"></a></td>
+  </tr>
+    <tr>
+    <td>1 Feb 2021</td>
+    <td>Atlantis @ 531</td>
+    <td>531 Serangoon Road <br>Singapore 218163<br></td>
+    <td><a href="/files/Atlantis at 531.pdf"></a></td>
+  </tr>
+    <tr>
+    <td>12 Jan 2021</td>
+    <td>AQUEEN Prestige Hotel - Lavender</td>
+    <td>35 Hamilton Road <br>Singapore 209204<br></td>
+    <td><a href="/files/AQUEEN Prestige Hotel - Lavender.pdf"></a></td>
+  </tr>
+   <tr>
+    <td>12 Jan 2021</td>
+    <td>K Space Inn Owen</td>
+    <td>91A Owen Road <br>Singapore 218903<br></td>
+    <td><a href="/files/K SPACE INN OWEN.pdf"></a></td>
+  </tr>
+   <tr>
+    <td>6 Jan 2021</td>
+    <td>K HOTEL ALIWAL</td>
+    <td>10 Aliwal Street <br>Singapore 199903<br></td>
+    <td><a href="/files/K HOTEL ALIWAL.pdf"></a></td>
+  </tr>
