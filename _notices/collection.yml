@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 2021/.keep
-      - 2021/q1.md
+      - 2021/first-quarter.md
       - 2021/second-quarter.md
       - 2021/third-quarter.md
       - 2020/.keep
