@@ -1,20 +1,20 @@
 logo: /images/homepage/logo_hlb.svg
 links:
-    - title: 'Application Guidelines'
-      collection: application-guidelines
-    - title: Legislation
-      false_collection: true
-      sublinks:
-      - title: 'Hotels Act'
-        url: 'https://sso.agc.gov.sg/Act/HA1954'
+  - title: Application Guidelines
+    collection: application-guidelines
+  - title: Legislation
+    false_collection: true
+    sublinks:
+      - title: Hotels Act
+        url: https://sso.agc.gov.sg/Act/HA1954
         external: true
-      - title: 'Hotels Licensing Regulations'
-        url: 'https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20170724'
+      - title: Hotels Licensing Regulations
+        url: https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20170724
         external: true
-    - title: Resources
-      false_collection: true
-      url: /resources/
-      sublinks:
+  - title: Resources
+    false_collection: true
+    url: /resources/
+    sublinks:
       - title: Forms and Templates
         url: /resources/forms-and-templates/
       - title: Guides
@@ -22,17 +22,17 @@ links:
       - title: Registered Hotels
         url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
         external: true
-    - title: Notices
-      false_collection: true
-      url: /notices/1a-2021-q2/
-      sublinks:
+  - title: Notices
+    false_collection: true
+    url: /notices/1a-2021-q3/
+    sublinks:
       - title: 2021
         url: /notices/1a-2021-q2/
       - title: 2020
         url: /notices/2a-2020-q4/
       - title: 2019
         url: /notices/3a-2019-q4/
-    - title: 'Who We Are'
-      url: /who-we-are/
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Contact Us
+    url: /contact-us/
