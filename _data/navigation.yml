@@ -24,8 +24,10 @@ links:
         external: true
   - title: Notices
     false_collection: true
-    url: /notices/1a-2021-q4/
+    url: /notices/1a-2022-q1/
     sublinks:
+      - title: "2022"
+        url: /notices/1a-2022-q1/
       - title: 2021
         url: /notices/1a-2021-q4/
       - title: 2020
