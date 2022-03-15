@@ -1,12 +1,9 @@
 ---
 permalink: /application-guidelines/application-for-licence/
-title: 'Application for Licence'
-breadcrumb: 'Application Guidelines (Application for Licence)'
+title: Application for Licence
+breadcrumb: Application Guidelines (Application for Licence)
 last_updated: 01-04-2018
-
 ---
-
-
 ### **Application for Certification of Registration & Hotel-Keeper's Licence**
 
 Any person who wishes to operate a hotel has to apply to the Hotels Licensing Board for the following as stipulated under the Hotels Act (Chapter 127):
@@ -67,7 +64,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     * Furniture and fittings in most rooms 
     * Clearly visible hotel frontage & signage 
     * Reception counter or area for receiving guests 
-    * Fully installed and operating security 
+    * Fully installed and operating security system
     * Adherence to terms and conditions stated in URA's Written Permission and conditions laid down by other Government agencies
 
  8. Processing of the application will take a minimum of two weeks from the pre-opening inspection date. 
@@ -82,4 +79,4 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-new-application.pdf).
 
- 13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.        
+ 13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
