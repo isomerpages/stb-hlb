@@ -1,12 +1,9 @@
 ---
 permalink: /application-guidelines/change-of-hotel-name/
-breadcrumb: 'Application Guidelines (Change of Hotel Name)'
-title: 'Change of Hotel Name'
+breadcrumb: Application Guidelines (Change of Hotel Name)
+title: Change of Hotel Name
 last_updated: 01-04-2018
-
 ---
-
-
 ### **Application for a Change of Hotel Name**
 
 For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
@@ -23,7 +20,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
     <td>Minimum of two weeks following fourteen(14) days from the day of the advertisements.</td>
   </tr>
     <td>Change of Hotel Name Fees*</td>
-    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
+    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br></td>
 </table>
 
 ### **Submission of Application**
