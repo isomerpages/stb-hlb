@@ -1,12 +1,9 @@
 ---
 permalink: /application-guidelines/change-of-hotel-keeper/
-breadcrumb: 'Application Guidelines (Change of Hotel Keeper)'
-title: 'Change of Hotel-Keeper'
+breadcrumb: Application Guidelines (Change of Hotel Keeper)
+title: Change of Hotel-Keeper
 last_updated: 01-04-2018
-
 ---
-
-
 ### **Application for a Change of Hotel-Keeper**
 
 For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"} immediately.
@@ -28,7 +25,7 @@ The proposed Hotel-Keeper:
   </tr>
   <tr>
     <td>Change of Hotel-Keeper Licence Fees*</td>
-    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
+    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br></td>
   </tr>
 </table>
 

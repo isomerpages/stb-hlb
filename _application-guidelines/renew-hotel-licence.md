@@ -1,12 +1,9 @@
 ---
 permalink: /application-guidelines/renew-hotel-licence/
-title: 'Renew Hotel Licence'
-breadcrumb: 'Application Guidelines (Renew Hotel Licence)'
+title: Renew Hotel Licence
+breadcrumb: Application Guidelines (Renew Hotel Licence)
 last_updated: 01-04-2018
-
 ---
-
-
 ### **Application to Renew Hotel Licence**
 
 The Hotel licence to operate a hotel will expire on 31 December every year, regardless of the date of licence issuance. A Certificate of Registration and Hotel-Keeper's licence are required under the Hotels Act to operate a hotel.
@@ -27,7 +24,7 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
     <td>Last quarter of the calendar year</td> 
   </tr>
     <td>Hotel Licence Renewal Fees*</td>
-    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100<br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
+    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100<br></td>
 </table>
 
 ### **Submission of Applications**
