@@ -6,7 +6,7 @@ last_updated: 01-04-2018
 ---
 ### **Application for Certification of Registration & Hotel-Keeper's Licence**
 
-Any person who wishes to operate a hotel has to apply to the Hotels Licensing Board for the following as stipulated under the Hotels Act (Chapter 127):
+Any person who wishes to operate a hotel has to apply to the Hotels Licensing Board for the following as stipulated under the Hotels Act 1954:
 
 * Certificate of Registration to use the premises as a hotel; and 
 * Hotel-Keeper's licence to enable the person to manage the hotel
@@ -27,7 +27,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
     <td>Annual Licence Fees*</td>
-    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable between 1 Jan 2021 to 31 Dec 2021 will be <b> waived </b> to help mitigate the impact of COVID-19.</td>
+    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br></td>
 </table>
 
 ### **Submission of Application**
