@@ -1,14 +1,11 @@
 ---
-title: 'Who We Are'
+title: Who We Are
 permalink: /who-we-are/
-breadcrumb: 'Who We Are'
-
+breadcrumb: Who We Are
 ---
-
-
 ### The Hotels Licensing Board (HLB) is a statutory board under the Ministry of Trade and Industry of Singapore. The Singapore Tourism Board (STB), provides the secretariat services for HLB.
 
-Established under the Hotels Act, HLB is empowered to administer the regulatory framework for the hotel industry. Our responsibilities are:
+Established under the Hotels Act 1954, HLB is empowered to administer the regulatory framework for the hotel industry. Our responsibilities are:
 
 * Administer the licensing regime for hotels, including the registration of new hotels, updating of hotel's details and renewal of licenses.
 * Review the hotels licensing processes
