@@ -19,10 +19,6 @@ The Chairman and members of the Hotels Licensing Board are appointed by the Mini
 Chairman, State Courts<br>
 [toh_yung_cheong@statecourts.gov.sg](toh_yung_cheong@statecourts.gov.sg)
 
-**Ms Goh Chin Chin, PPA(G)**<br>
-Member, Urban Redevelopment Authority<br>
-[goh_chin_chin@ura.gov.sg](goh_chin_chin@ura.gov.sg)
-
 **Ms Tan Yen Nee**<br>
 Member, Singapore Tourism Board<br>
 [tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
@@ -34,3 +30,7 @@ Member, Singapore Police Force<br>
 **AC Tan Hock Guan, Derek,  PPA(G)**<br>
 Member, Singapore Civil Defence Force<br>
 [derek_tan@scdf.gov.sg](derek_tan@scdf.gov.sg)
+
+**Ms Yak Pek Ching, PPA(G)**<br>
+Member, Urban Redevelopment Authority<br>
+[yak_pek_ching@ura.gov.sg](goh_chin_chin@ura.gov.sg)
