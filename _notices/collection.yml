@@ -2,7 +2,7 @@ collections:
   notices:
     output: true
     order:
-      - 2023/2023.md
+      - 2023/Q1 2023.md
       - 2023/.keep
       - 2022/4Q 2022.md
       - 2022/3Q 2022.md
