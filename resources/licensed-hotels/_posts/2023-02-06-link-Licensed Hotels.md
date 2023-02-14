@@ -1,11 +1,12 @@
 ---
 title: Licensed Hotels
-permalink: https://go.gov.sg/hlb-licensedhotels/
-date: 2023-01-03
+date: 2023-02-06
 layout: link
 description: ""
 image: ""
+external: https://go.gov.sg/hlb-licensedhotels/
 ---
+
 
 
 
