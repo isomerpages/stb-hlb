@@ -27,10 +27,10 @@ Member, Singapore Tourism Board<br>
 Member, Singapore Police Force<br>
 [ng_kang_bee@spf.gov.sg](ng_kang_bee@spf.gov.sg)
 
-**AC Tan Hock Guan, Derek,  PPA(G)**<br>
+**LTC Phng Guan Hwee, Eugene**<br>
 Member, Singapore Civil Defence Force<br>
-[derek_tan@scdf.gov.sg](derek_tan@scdf.gov.sg)
+[eugene_phng@scdf.gov.sg](eugene_phng@scdf.gov.sg)
 
 **Ms Yak Pek Ching, PPA(G)**<br>
 Member, Urban Redevelopment Authority<br>
-[yak_pek_ching@ura.gov.sg](goh_chin_chin@ura.gov.sg)
+[yak_pek_ching@ura.gov.sg](yak_pek_ching@ura.gov.sg)
