@@ -1,13 +1,10 @@
 ---
 layout: post
-title: 'Advertisement Template'
-permalink: /resources/forms-and-template/Advertisement-Template
+title: Advertisement Template
+permalink: /resources/forms-and-template/Advertisement-Template/
 category: Resources
 file: files/resources/forms-and-templates/advertisement-template.doc
-
 ---
-
-
 Advertisement Template
 ---
  
@@ -15,4 +12,4 @@ This advertisement template is only applicable for New Hotel Application and Cha
 
 Please ensure that the Name of Hotel in this Notice is the same as your application and on your hotel signage. 
 
-Click [here](/files/resources/forms-and-templates/advertisement-template-240219.doc) to download the Advertisement Template. 
+Click [[here](https://go.gov.sg/hlb-enoticetemplate)](/files/resources/forms-and-templates/advertisement-template-240219.doc) to download the Advertisement Template.
