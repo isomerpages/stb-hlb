@@ -12,4 +12,4 @@ This advertisement template is only applicable for New Hotel Application and Cha
 
 Please ensure that the Name of Hotel in this Notice is the same as your application and on your hotel signage. 
 
-Click [[here](https://go.gov.sg/hlb-enoticetemplate)](/files/resources/forms-and-templates/advertisement-template-240219.doc) to download the Advertisement Template.
+Click [here](https://go.gov.sg/hlb-enoticetemplate) to download the Advertisement Template.
