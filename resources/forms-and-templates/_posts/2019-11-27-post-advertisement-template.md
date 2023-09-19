@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advertisement Template
-permalink: /resources/forms-and-template/Advertisement-Template/
+permalink: /resources/forms-and-template/advertisement-template/
 category: Resources
 file: files/resources/forms-and-templates/advertisement-template.doc
 ---
