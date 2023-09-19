@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hotels licensing in Singapore
       subtitle: An easy platform to search for information related to hotel licensing
-      background: /images/homepage/HLB_website_Blueprint.jpg
+      background: /images/homepage/hlb_website_blueprint.jpg
       key_highlights:
         - title: Notices
           description: View advertisements of applications for a Certificate of Registration
@@ -19,7 +19,7 @@ sections:
           url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
         - title: Hotels Legislation
           description: Read about the Hotels Act and Licensing Regulations
-          url: https://sso.agc.gov.sg/Act/HA1954
+          url: https://sso.agc.gov.sg/act/ha1954
   - resources:
       title: Be in the know
       subtitle: Resources
