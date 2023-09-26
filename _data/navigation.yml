@@ -6,10 +6,10 @@ links:
     false_collection: true
     sublinks:
       - title: Hotels Act
-        url: https://sso.agc.gov.sg/Act/HA1954
+        url: https://sso.agc.gov.sg/act/ha1954
         external: true
       - title: Hotels Licensing Regulations
-        url: https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20170724
+        url: https://sso.agc.gov.sg/sl/ha1954-rg1?docdate=20170724
         external: true
   - title: Resources
     false_collection: true
