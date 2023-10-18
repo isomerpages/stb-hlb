@@ -1,5 +1,5 @@
 ---
-title: Step by Step Guide for Photo Submissions
+title: Step by Step Guide for Inspection Form Submissions
 date: 2023-07-31
 layout: file
 description: ""
