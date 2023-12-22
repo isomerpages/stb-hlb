@@ -3,14 +3,12 @@ links:
   - title: Application Guidelines
     collection: application-guidelines
   - title: Legislation
-    false_collection: true
     sublinks:
       - title: Hotels Act
         url: https://sso.agc.gov.sg/act/ha1954
       - title: Hotels Licensing Regulations
         url: https://sso.agc.gov.sg/sl/ha1954-rg1?docdate=20170724
   - title: Resources
-    false_collection: true
     url: /resources/
     sublinks:
       - title: Forms and Templates
@@ -22,7 +20,6 @@ links:
       - title: GoBusiness Licensing
         url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
   - title: Notices
-    false_collection: true
     url: /notices/1a-2023-q2/
     sublinks:
       - title: "2023"
