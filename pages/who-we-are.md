@@ -2,6 +2,7 @@
 title: Who We Are
 permalink: /who-we-are/
 breadcrumb: Who We Are
+variant: markdown
 ---
 ### The Hotels Licensing Board (HLB) is a statutory board under the Ministry of Trade and Industry of Singapore. The Singapore Tourism Board (STB), provides the secretariat services for HLB.
 
@@ -23,9 +24,9 @@ Chairman, State Courts<br>
 Member, Singapore Tourism Board<br>
 [tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
 
-**DAC Ng Kang Bee**<br>
+**DAC Eugene Wang**<br>
 Member, Singapore Police Force<br>
-[ng_kang_bee@spf.gov.sg](ng_kang_bee@spf.gov.sg)
+[eugene_wang@spf.gov.sg](eugene_wang@spf.gov.sg)
 
 **LTC Phng Guan Hwee, Eugene**<br>
 Member, Singapore Civil Defence Force<br>
