@@ -32,6 +32,6 @@ Member, Singapore Police Force<br>
 Member, Singapore Civil Defence Force<br>
 [eugene_phng@scdf.gov.sg](eugene_phng@scdf.gov.sg)
 
-**Ms Yak Pek Ching, PPA(G)**<br>
+**Ms Yak Pek Ching**<br>
 Member, Urban Redevelopment Authority<br>
 [yak_pek_ching@ura.gov.sg](yak_pek_ching@ura.gov.sg)
