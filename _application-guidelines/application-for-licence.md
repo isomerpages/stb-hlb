@@ -72,7 +72,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  9. You will be informed via SMS and/or e-mail if your application has been approved.   
  
- 10. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
+ 10. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
 
  11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
