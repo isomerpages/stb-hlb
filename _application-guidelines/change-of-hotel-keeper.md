@@ -3,6 +3,7 @@ permalink: /application-guidelines/change-of-hotel-keeper/
 breadcrumb: Application Guidelines (Change of Hotel Keeper)
 title: Change of Hotel-Keeper
 last_updated: 01-04-2018
+variant: markdown
 ---
 ### **Application for a Change of Hotel-Keeper**
 
@@ -15,7 +16,7 @@ The proposed Hotel-Keeper:
 ### **At A Glance**
 
 <table class="table-v">
-  <tr>
+  <tbody><tr>
     <td>Application Period</td>
     <td> Throughout the year</td> 
   </tr>
@@ -25,9 +26,10 @@ The proposed Hotel-Keeper:
   </tr>
   <tr>
     <td>Change of Hotel-Keeper Licence Fees*</td>
-    <td><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br></td>
+		<td><b>Applications submitted before 1 January 2025 with all requisite documents</b><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br></td>
+		 <td><b>Applications submitted after 1 January 2025</b><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150<br></td>
   </tr>
-</table>
+</tbody></table>
 
 ### **Submission of Application**
 
@@ -44,7 +46,7 @@ The proposed Hotel-Keeper:
 
 4. You will be informed via SMS and/or e-mail if your application has been approved. 
 
-5. After the application has been approved, you may proceed to print the Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
+5. After the application has been approved, you will receive a copy of the Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Hotel-Keeper's Licence should be displayed in a conspicuous place. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Licence.
 
 6. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Hotel-Keeper's Licence.
 
@@ -52,4 +54,4 @@ The proposed Hotel-Keeper:
 
 7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 
-8. For further clarification, please email <hlb_info@hlb.gov.sg> or call 6736 6622.
+8. For further clarification, please email  or call 6736 6622.
