@@ -25,9 +25,8 @@ The proposed Hotel-Keeper:
     <td>Minimum of 2 weeks upon receipt of all the documents required</td>
   </tr>
   <tr>
-    <td>Change of Hotel-Keeper Licence Fees*</td>
-		<td><b>Applications submitted before 1 January 2025 with all requisite documents</b><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br></td>
-		 <td><b>Applications submitted after 1 January 2025</b><br><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150<br></td>
+    <td>Change of Hotel-Keeper Licence Fees</td>
+		<td><b>Applications submitted before 1 January 2025 with all requisite documents</b><br><br>Hotel-Keeper's licence fees for hotels of all sizes - $100<br><br><br><b>Applications submitted after 1 January 2025</b><br><br>Hotel-Keeper's licence fees for hotels of all sizes - $150<br></td>
   </tr>
 </tbody></table>
 
