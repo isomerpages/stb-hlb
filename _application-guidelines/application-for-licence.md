@@ -42,12 +42,11 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  4. For the Certificate of Registration: 
    
-    * Cover letter with the proposed date of **commencement of operations** of the Hotel.
-    * **Grant of Written Permission** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
+     * **Grant of Written Permission / Temporary Permission ("URA Permission"** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
     * **[ACRA](https://www.acra.gov.sg){:target="_blank"}** business profile of the business or company 
     * Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the [Building &amp; Construction Authority (BCA)](https://www.bca.gov.sg){:target="_blank"}. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit documentation of BCA's acceptance of the most recent periodic inspection report of the building.  
     * **Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)** from the [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg){:target="_blank"}  Under the Fire Safety Act, any public buildings use as hotels, hostels, boarding houses, etc. and if the occupant load of buildings is more than 200 persons, the building owners or occupiers must apply/obtain Fire Certificates from the Singapore Civil Defence Force. 
-    * With effect from 1 December 2019, **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
+    * **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
 
  5. For Hotel-Keeper's Licence
 
@@ -66,14 +65,14 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     * Furniture and fittings in most rooms 
     * Clearly visible hotel frontage &amp; signage 
     * Reception counter or area for receiving guests 
-    * Fully installed and operating security system
+    * Fully installed and operating electronic video surveillance system at all entry/exit points, lobby, front desk/concierge desk and every area where a guest or visitor may pass through to access the guest rooms.
     * Adherence to terms and conditions stated in URA's Written Permission and conditions laid down by other Government agencies
 
  8. Processing of the application will take a minimum of two weeks from the pre-opening inspection date. 
 
  9. You will be informed via SMS and/or e-mail if your application has been approved.   
  
- 10. After the application has been approved, you may proceed to a print notification to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel.
+ 10. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place, preferably at the Reception Counter of the hotel. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
 
  11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
