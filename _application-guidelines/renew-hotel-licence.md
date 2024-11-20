@@ -9,7 +9,7 @@ variant: markdown
 
 The Hotel licence to operate a hotel will expire on 31 December every year, regardless of the date of licence issuance. A Certificate of Registration and Hotel-Keeper's licence are required under the Hotels Act to operate a hotel.
 
-Applications for the renewal of the Certificate of Registration and Hotel-Keeper's licence can only be made in the last quarter of the calendar year. Licensees will be notified by post and email on the renewal application process and requirements.
+Applications for the renewal of the Certificate of Registration and Hotel-Keeper's licence can only be made in the last quarter of the calendar year. Licensees will be notified by email on the renewal application process and requirements.
 
 Note:
 * Your hotel must have a valid Grant of Written Permission / Temporary Permission ("URA Permission"), which expires no earlier than 1 January of the following year.
@@ -26,8 +26,7 @@ Note:
     <td>Last quarter of the calendar year</td> 
   </tr>
     <tr><td>Hotel Licence Renewal Fees*</td>
-    <td><b>Renewal applications for licence term of 1 January 2025 to 31 December 2025, submitted before 1 January 2025</b> <br><br><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br><br><br><br><br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100<br></td>
-			<td><b>Renewal applications submitted in last quarter of 2025 for 2026</b> <br><br><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $250 <br>(ii)   Hotel with 101-299 rooms - $600 <br>(iii)  Hotel with 300-499 rooms - $1,100 <br> (iii)  Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $150<br></td>
+    <td><b>Renewal applications for licence term of 1 January 2025 to 31 December 2025, submitted before 1 January 2025</b> <br><br><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100<br><br><br><b>Renewal applications submitted in last quarter of 2025 for 2026</b> <br><br><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $250 <br>(ii)   Hotel with 101-299 rooms - $600 <br>(iii)  Hotel with 300-499 rooms - $1,100 <br> (iii)  Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $150<br></td>
 </tr></tbody></table>
 
 ### **Submission of Applications**
