@@ -1,6 +1,6 @@
 ---
 title: Licensed Hotels
-date: 2024-10-03
+date: 2024-11-04
 layout: link
 description: ""
 image: ""
