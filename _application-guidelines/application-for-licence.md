@@ -12,9 +12,9 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 * Certificate of Registration to use the premises as a hotel; and 
 * Hotel-Keeper's licence to enable the person to manage the hotel
 
-&gt; Note: 
-&gt; * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
-&gt; * The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
+Note: 
+* All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
+* The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
 
 ### **At A Glance**
 
@@ -28,7 +28,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
     <tr><td>Annual Licence Fees*</td>
-    <td><b>Applications received before 1 January 2025 with all requisite documents</b> <br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br></td>
+    <td><b>Applications received before 1 January 2025 with all requisite documents</b> <br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br><br><br><br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br></td>
 			<td><b>Applications received after 1 January 2025</b> <br><br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $250 <br>(ii) Hotel with 101-299 rooms - $600 <br> (iii) Hotel with 300-499 rooms - $1,100 <br> (iv) Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150 <br></td>
 </tr></tbody></table>
 
@@ -42,7 +42,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  4. For the Certificate of Registration: 
    
-     * **Grant of Written Permission / Temporary Permission ("URA Permission"** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
+     * **Grant of Written Permission / Temporary Permission ("URA Permission")** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
     * **[ACRA](https://www.acra.gov.sg){:target="_blank"}** business profile of the business or company 
     * Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the [Building &amp; Construction Authority (BCA)](https://www.bca.gov.sg){:target="_blank"}. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit documentation of BCA's acceptance of the most recent periodic inspection report of the building.  
     * **Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)** from the [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg){:target="_blank"}  Under the Fire Safety Act, any public buildings use as hotels, hostels, boarding houses, etc. and if the occupant load of buildings is more than 200 persons, the building owners or occupiers must apply/obtain Fire Certificates from the Singapore Civil Defence Force. 
