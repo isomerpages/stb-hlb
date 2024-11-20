@@ -8,6 +8,8 @@ links:
         url: https://sso.agc.gov.sg/act/ha1954
       - title: Hotels Licensing Regulations
         url: https://sso.agc.gov.sg/sl/ha1954-rg1?docdate=20170724
+      - title: New submenu
+        url: /permalink
   - title: Resources
     url: /resources/
     sublinks:
