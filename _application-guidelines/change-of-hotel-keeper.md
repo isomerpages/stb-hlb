@@ -27,7 +27,7 @@ The proposed Hotel-Keeper:
   <tr>
     <td>Change of Hotel-Keeper Licence Fees*</td>
 		<td><b>Applications submitted before 1 January 2025 with all requisite documents</b><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100<br></td>
-		 <td><b>Applications submitted after 1 January 2025</b><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150<br></td>
+		 <td><b>Applications submitted after 1 January 2025</b><br><br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150<br></td>
   </tr>
 </tbody></table>
 
@@ -54,4 +54,4 @@ The proposed Hotel-Keeper:
 
 7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 
-8. For further clarification, please email  or call 6736 6622.
+8. For further clarification, please email hlb_info@hlb.gov.sg or call 6736 6622.
