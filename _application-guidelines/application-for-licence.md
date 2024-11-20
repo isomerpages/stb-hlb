@@ -3,22 +3,23 @@ permalink: /application-guidelines/application-for-licence/
 title: Application for Licence
 breadcrumb: Application Guidelines (Application for Licence)
 last_updated: 01-04-2018
+variant: markdown
 ---
-### **Application for Certification of Registration & Hotel-Keeper's Licence**
+### **Application for Certification of Registration &amp; Hotel-Keeper's Licence**
 
 Any person who wishes to operate a hotel has to apply to the Hotels Licensing Board for the following as stipulated under the Hotels Act 1954:
 
 * Certificate of Registration to use the premises as a hotel; and 
 * Hotel-Keeper's licence to enable the person to manage the hotel
 
-> Note: 
-> * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
-> * The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
+&gt; Note: 
+&gt; * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
+&gt; * The hotel can only begin operations after it has received the e-copies of the Certificate and Licence.
 
 ### **At A Glance**
 
 <table class="table-v">
-  <tr>
+  <tbody><tr>
     <td>Application Period</td>
     <td>1 January to 30 November each year only</td>
   </tr>
@@ -26,9 +27,10 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Processing Time</td>
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
-    <td>Annual Licence Fees*</td>
-    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br></td>
-</table>
+    <tr><td>Annual Licence Fees*</td>
+    <td><b>Applications received before 1 January 2025 with all requisite documents</b> <br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br></td>
+			<td><b>Applications received after 1 January 2025</b> <br><br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $250 <br>(ii) Hotel with 101-299 rooms - $600 <br> (iii) Hotel with 300-499 rooms - $1,100 <br> (iv) Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150 <br></td>
+</tr></tbody></table>
 
 ### **Submission of Application**
 
@@ -43,7 +45,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     * Cover letter with the proposed date of **commencement of operations** of the Hotel.
     * **Grant of Written Permission** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
     * **[ACRA](https://www.acra.gov.sg){:target="_blank"}** business profile of the business or company 
-    * Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the [Building & Construction Authority (BCA)](https://www.bca.gov.sg){:target="_blank"}. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit documentation of BCA's acceptance of the most recent periodic inspection report of the building.  
+    * Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the [Building &amp; Construction Authority (BCA)](https://www.bca.gov.sg){:target="_blank"}. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit documentation of BCA's acceptance of the most recent periodic inspection report of the building.  
     * **Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)** from the [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg){:target="_blank"}  Under the Fire Safety Act, any public buildings use as hotels, hostels, boarding houses, etc. and if the occupant load of buildings is more than 200 persons, the building owners or occupiers must apply/obtain Fire Certificates from the Singapore Civil Defence Force. 
     * With effect from 1 December 2019, **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
 
@@ -62,7 +64,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
  7. A pre-opening inspection will be carried out to ascertain the hotel is ready for operations, upon receipt of all required documents. Checks will include, but are not limited to: 
 
     * Furniture and fittings in most rooms 
-    * Clearly visible hotel frontage & signage 
+    * Clearly visible hotel frontage &amp; signage 
     * Reception counter or area for receiving guests 
     * Fully installed and operating security system
     * Adherence to terms and conditions stated in URA's Written Permission and conditions laid down by other Government agencies
