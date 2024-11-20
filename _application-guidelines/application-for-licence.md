@@ -28,7 +28,7 @@ Note:
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
     <tr><td>Annual Licence Fees</td>
-    <td><b>Applications received before 1 January 2025 with all requisite documents</b> <br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br><br><br><b>Applications received after 1 January 2025</b> <br><br><b>Certificate of Registration</b> (i) Hotel with 100 rooms and less - $250 <br>(ii) Hotel with 101-299 rooms - $600 <br> (iii) Hotel with 300-499 rooms - $1,100 <br> (iv) Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150 <br></td>
+			<td><b><u>Applications received before 1 January 2025 with all requisite documents</u></b> <br><br><b>Certificate of Registration</b><br> (i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br><b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100 <br><br><br><b><u>Applications received after 1 January 2025</u></b> <br><br><b>Certificate of Registration</b><br> (i) Hotel with 100 rooms and less - $250 <br>(ii) Hotel with 101-299 rooms - $600 <br> (iii) Hotel with 300-499 rooms - $1,100 <br> (iv) Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150 <br></td>
 </tr></tbody></table>
 
 ### **Submission of Application**
