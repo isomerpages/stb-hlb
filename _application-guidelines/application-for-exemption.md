@@ -11,7 +11,7 @@ Exemptions only apply to the following categories of accommodation as prescribed
 * Student hostels approved by the Board; and
 * Residential clubs and other institutions approved by the Board*
 
-With effect from 1 January 2025, accommodations that do not require a hotel licence will be prescribed within the Hotels Licensing Reglations and are no longer required to apply for separate exemption approval. 
+With effect from 1 January 2025, accommodations that do not require a hotel licence will be prescribed within the Hotels Licensing Regulations and are no longer required to apply for separate exemption approval. 
 
 *Note: Exemption approvals granted to residential clubs and other institutions prior to 1 January 2025 will only be valid until 31 March 2025. Such entities are required to obtain a hotel licence by 1 April 2025 if they wish to provide accommodations to non-members.
 
