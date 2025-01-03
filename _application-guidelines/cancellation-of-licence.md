@@ -10,7 +10,7 @@ Should the hotel decides to cease its hotel operations, the CorpPass authorized 
 
 ### **Submission of Application**
 
-1. Application for the cancellation of the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
+1. Application for the cancellation of the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via [GoBusiness Licensing](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}.
 
 
 ### **Approval Process**
