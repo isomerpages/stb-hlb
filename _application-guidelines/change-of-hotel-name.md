@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Application for a Change of Hotel Name**
 
-For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
+For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
 
 ### **At A Glance**
 
