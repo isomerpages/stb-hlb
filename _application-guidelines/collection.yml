@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - application-for-licence.md
-      - application-for-exemption.md
       - cancellation-of-licence.md
       - change-of-hotel-keeper.md
       - change-of-hotel-name.md
