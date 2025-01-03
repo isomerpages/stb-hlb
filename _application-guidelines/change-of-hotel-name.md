@@ -21,7 +21,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
     <td>Minimum of two weeks following fourteen(14) days from the day of the advertisements.</td>
   </tr>
     <tr><td>Change of Hotel Name Fees</td>
-			<td><b><u>Applications submitted before 1 January 2025 with all requisite documents</u><br><br><b>Certificate of Registration</b> </b><br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br><br><b><u>Applications submitted after 1 January 2025</u><br><br><b>Certificate of Registration</b> </b><br>(i)    Hotel with 100 rooms and less - $250 <br>(ii)   Hotel with 101-299 rooms - $600 <br> (iii)  Hotel with 300-499 rooms - $1,100 <br>(iv)  Hotel with 500 or more rooms - $1,450 <br></td>
+			<td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $250 <br>(ii)   Hotel with 101-299 rooms - $600 <br> (iii)  Hotel with 300-499 rooms - $1,100 <br>(iv)  Hotel with 500 or more rooms - $1,450 <br></td>
 </tr></tbody></table>
 
 ### **Submission of Application**
