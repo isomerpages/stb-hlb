@@ -22,8 +22,10 @@ links:
       - title: GoBusiness Licensing
         url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
   - title: Notices
-    url: /4q-2024/
+    url: /1q-2025/
     sublinks:
+      - title: "2025"
+        url: /1q-2025/
       - title: "2024"
         url: /4q-2024/
       - title: "2023"
