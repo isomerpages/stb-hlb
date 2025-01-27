@@ -27,9 +27,9 @@ the Minister of Trade and Industry to administer the Hotels Act.</p>
 <br>Chairman, State Courts
 <br><a href="toh_yung_cheong@judiciary.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_yung_cheong@statecourts.gov.sg</a>
 </p>
-<p><strong>Ms Tan Yen Nee</strong>
+<p><strong>Ms Rachel Loh</strong>
 <br>Member, Singapore Tourism Board
-<br><a href="tan_yen_nee@stb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_nee@stb.gov.sg</a>
+<br><a href="tan_yen_nee@stb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_loh@stb.gov.sg</a>
 </p>
 <p><strong>DAC Eugene Wang</strong>
 <br>Member, Singapore Police Force
