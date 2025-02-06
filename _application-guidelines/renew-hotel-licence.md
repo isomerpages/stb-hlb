@@ -16,7 +16,7 @@ Note:
 * Under the Fire Safety Act, any public buildings use as hotels, hostels, boarding houses, etc. and if the occupant load of buildings is more than 200 persons, the building owners or occupiers must apply/obtain Fire Certificates from the Singapore Civil Defence Force.
 * With effect from 1 April 2025, existing licensees (licensed before 1 January 2025) are required to install an electronic video surveillance system at all entry/exit points, lobby, front desk/concierge desk and every area where a guest or visitor may pass through to access the guest rooms.
 * Should there be a change of Hotel-Keeper, change of Hotel Name or hotel details in the renewal application, these changes will only take effect 1 January of the following year.
-* If the changes are to be effected for the current year, please see the requirements as stated under the [Change of Hotel-Keeper](https://isomerpages-hlb.netlify.com/application-guidelines/change-of-hotel-keeper/) or [Change of Hotel-Name](https://isomerpages-hlb.netlify.com/application-guidelines/change-of-hotel-name/).
+* If the changes are to be effected for the current year, please see the requirements as stated under the [Change of Hotel-Keeper](https://www.hlb.gov.sg/application-guidelines/change-of-hotel-keeper/) or [Change of Hotel-Name](https://www.hlb.gov.sg/application-guidelines/change-of-hotel-name/).
 
 ### **At A Glance**
 
