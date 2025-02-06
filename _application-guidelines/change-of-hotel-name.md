@@ -31,7 +31,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 2. Please submit all the following documents as attachments together with the online application. 
 
    * **ACRA business profile** of the hotel name (if applicable)  
-   *  **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
+   *  **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission_of_e-notice_2025.pdf).
 
 ### **Approval Process**
 
@@ -41,12 +41,12 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 5. You will be informed via SMS and/or e-mail if your application has been approved. 
 
-6. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
+6. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
 ### **For More Information**
 
-8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
+8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here](/files/resources/guides/guide_amendment_of_licence_2025.pdf).
 
 9. For further clarification, please email hlb_info@hlb.gov.sg or call 6736 6622.
