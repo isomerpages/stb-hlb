@@ -45,7 +45,7 @@ Note:
     * **[ACRA](https://www.acra.gov.sg){:target="_blank"}** business profile of the business or company 
     * Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the [Building &amp; Construction Authority (BCA)](https://www.bca.gov.sg){:target="_blank"}. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit documentation of BCA's acceptance of the most recent periodic inspection report of the building.  
     * **Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)** from the [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg){:target="_blank"}  Under the Fire Safety Act, any public buildings use as hotels, hostels, boarding houses, etc. and if the occupant load of buildings is more than 200 persons, the building owners or occupiers must apply/obtain Fire Certificates from the Singapore Civil Defence Force. 
-    * **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
+    * **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission_of_e-notice_2025.pdf).
 
  5. For Hotel-Keeper's Licence
 
@@ -71,7 +71,7 @@ Note:
 
  9. You will be informed via SMS and/or e-mail if your application has been approved.   
  
- 10. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Certificate of Registration and Hotel-Keeper's Licence should be displayed in a conspicuous place. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
+ 10. After the application has been approved, you will receive the Certificate and Licence via GoBusiness Licensing. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Certificate and Licence.
 
  11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
