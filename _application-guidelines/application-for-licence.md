@@ -77,6 +77,6 @@ Note:
 
 ### **For More Information**
 
- 12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-for-new-application-2025.pdf).
+ 12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide_new_application_2025.pdf).
 
  13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
