@@ -45,12 +45,12 @@ The proposed Hotel-Keeper:
 
 4. You will be informed via SMS and/or e-mail if your application has been approved. 
 
-5. After the application has been approved, you will receive a copy of the Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf). The Hotel-Keeper's Licence should be displayed in a conspicuous place. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Licence.
+5. After the application has been approved, you will receive a copy of the Licence via GoBusiness Licensing. Please note that with effect from 1 January 2025, it is not a requirement under the Hotels Licensing Regulations for hotels to display the Licence.
 
 6. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Hotel-Keeper's Licence.
 
 ### **For More Information**
 
-7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
+7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here](/files/resources/guides/guide_amendment_of_licence_2025.pdf).
 
 8. For further clarification, please email hlb_info@hlb.gov.sg or call 6736 6622.
