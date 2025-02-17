@@ -25,7 +25,7 @@ Note:
   </tr>
   <tr>
     <td>Processing Time</td>
-    <td>Minimum of 2 weeks from the pre-opening inspection date</td>
+    <td>Minimum of 14 working days from the pre-opening inspection date</td>
   </tr>
     <tr><td>Annual Licence Fees</td>
 			<td><b>Certificate of Registration</b><br> (i) Hotel with 100 rooms and less - $250 <br>(ii) Hotel with 101-299 rooms - $600 <br> (iii) Hotel with 300-499 rooms - $1,100 <br> (iv) Hotel with 500 or more rooms - $1,450 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $150 <br></td>
