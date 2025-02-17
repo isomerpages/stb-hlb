@@ -18,7 +18,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
   </tr>
   <tr>
     <td>Processing Time</td>
-    <td>Minimum of two weeks following fourteen(14) days from the day of the advertisements.</td>
+    <td>Minimum of 14 working days, following completion of advertisement period (14 calendar days from date of e-notice).</td>
   </tr>
     <tr><td>Change of Hotel Name Fees</td>
 			<td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $250 <br>(ii)   Hotel with 101-299 rooms - $600 <br> (iii)  Hotel with 300-499 rooms - $1,100 <br>(iv)  Hotel with 500 or more rooms - $1,450 <br></td>
