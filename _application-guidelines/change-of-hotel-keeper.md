@@ -22,7 +22,7 @@ The proposed Hotel-Keeper:
   </tr>
   <tr>
     <td>Processing Time</td>
-    <td>Minimum of 2 weeks upon receipt of all the documents required</td>
+    <td>Minimum of 14 working days upon receipt of all the documents required</td>
   </tr>
   <tr>
     <td>Change of Hotel-Keeper Licence Fees</td>
