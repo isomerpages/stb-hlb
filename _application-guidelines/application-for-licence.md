@@ -6,7 +6,7 @@ last_updated: 01-04-2018
 variant: tiptap
 ---
 <h3><strong>Application for Certification of Registration &amp; Hotel-Keeper's Licence</strong></h3>
-<p>Any person who wishes to operate a hotel has to apply to the Hotels Licensing
+<p>Any person who wishes to operate a hotel has to obtain the Hotels Licensing
 Board for the following as stipulated under the Hotels Act 1954:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,7 +17,7 @@ Board for the following as stipulated under the Hotels Act 1954:</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>At A Glance</strong></h3>
+<h3><strong>At a Glance</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -230,19 +230,14 @@ conditions laid down by other Government agencies</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>You will be informed via e-mail if your application has been processed.
-Payment is required before the hotel is issued with a Certificate of Registration
-and Hotel-Keeper's Licence.</p>
+<p>You will be informed via e-mail if your application has been successfully
+processed. Payment is required to receive approval for your application
+and obtain your Certificate of Registration and Hotel-Keeper's Licence.</p>
 </li>
 <li>
-<p>After payment is verified and the application has been approved, you will
-receive the Certificate and Licence via GoBusiness Licensing.</p>
-</li>
-<li>
-<p>A hotel may only begin operations after obtaining both a Certificate of
-Registration and a Hotel-Keeper's Licence. Please note that with effect
-from 1 January 2025, it is not a requirement under the Hotels Licensing
-Regulations for hotels to display the Certificate and Licence.</p>
+<p>Please note that with effect from 1 January 2025, it is not a requirement
+under the Hotels Licensing Regulations for hotels to display the Certificate
+and Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
