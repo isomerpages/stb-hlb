@@ -6,14 +6,14 @@ last_updated: 01-04-2018
 variant: tiptap
 ---
 <h3><strong>Application for Certification of Registration &amp; Hotel-Keeper's Licence</strong></h3>
-<p>Any person who wishes to operate a hotel has to obtain the Hotels Licensing
-Board for the following as stipulated under the Hotels Act 1954:</p>
+<p>Any person who wishes to operate a hotel has to obtain the following as
+stipulated under the Hotels Act 1954:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Certificate of Registration to use the premises as a hotel; and</p>
 </li>
 <li>
-<p>Hotel-Keeper's licence to enable the person to manage the hotel</p>
+<p>Hotel-Keeper's Licence to enable the person to manage the hotel</p>
 </li>
 </ul>
 <p></p>
@@ -55,7 +55,7 @@ is later.</p>
 <br>(iii) Hotel with 300-499 rooms - $1,100
 <br>(iv) Hotel with 500 or more rooms - $1,450
 <br>
-<br><strong>Hotel-Keeper's licence fees for hotels of all sizes</strong> -
+<br><strong>Hotel-Keeper's Licence fees for hotels of all sizes</strong> -
 $150
 <br>
 </p>
