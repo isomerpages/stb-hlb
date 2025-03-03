@@ -77,14 +77,13 @@ Resident)</p>
 <h3><strong>Approval Process</strong></h3>
 <ol start="3">
 <li>
-<p>You will be informed via e-mail if your application has been processed.
-Payment is required before the hotel is issued with a Hotel-Keeper's Licence.</p>
+<p>You will be informed via e-mail if your application has been successfully
+processed. Payment is required to receive approval for your application
+and obtain your Hotel-Keeper's Licence.</p>
 </li>
 <li>
-<p>After payment is verified and the application has been approved, you will
-receive the Licence via GoBusiness Licensing. Please note that with effect
-from 1 January 2025, it is not a requirement under the Hotels Licensing
-Regulations for hotels to display the Licence.</p>
+<p>Please note that with effect from 1 January 2025, it is not a requirement
+under the Hotels Licensing Regulations for hotels to display the Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
