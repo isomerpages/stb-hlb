@@ -199,12 +199,14 @@ Pass holder.</p>
 </ol>
 <p></p>
 <h3><strong>Approval Process</strong></h3>
-<ol start="7">
+<ol data-tight="true" class="tight">
 <li>
-<p>A pre-opening inspection will be carried out to ascertain the hotel is
-ready for operations, upon receipt and verification of all required documents,
-or completion of the e-notice period (14 calendar days from published date).
-Checks will include, but are not limited to:</p>
+<p>A pre-opening inspection will be carried out to ascertain if the hotel
+is ready for operations, upon receipt and verification of all required
+documents, or completion of the e-notice period (14 calendar days from
+published date). Checks will include, but are not limited to:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Furniture and fittings in most rooms</p>
@@ -226,7 +228,7 @@ conditions laid down by other Government agencies</p>
 </li>
 </ul>
 <p></p>
-</li>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>You will be informed via e-mail if your application has been processed.
 Payment is required before the hotel is issued with a Certificate of Registration
@@ -249,7 +251,7 @@ of Registration and/or a Hotel-keeper's Licence.</p>
 </li>
 </ol>
 <h3><strong>For More Information</strong></h3>
-<ol start="12">
+<ol data-tight="true" class="tight">
 <li>
 <p>The step-by-step guide to guide you through the submission of the application
 for a Certificate of Registration and Hotel-Keeper's Licence can be found
