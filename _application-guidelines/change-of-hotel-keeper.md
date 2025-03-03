@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Application for a Change of Hotel-Keeper</strong></h3>
 <p>For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper
-on <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>{:target="_blank"}
-immediately.</p>
+on <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a> immediately.</p>
 <p>The proposed Hotel-Keeper:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,8 +39,7 @@ of the hotel; and</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 30 working days upon receipt and verification of all the documents
-required</p>
+<p>14 working days upon receipt and verification of all the documents required</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +59,7 @@ $150
 <ol>
 <li>
 <p>Application for a Change of Hotel-Keeper is to be submitted online via
-<a href="https://licence1.business.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>{:target="_blank"}.</p>
+<a href="https://licence1.business.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>.</p>
 </li>
 <li>
 <p>The following documents must be submitted together with the online application:</p>
@@ -79,18 +77,14 @@ Resident)</p>
 <h3><strong>Approval Process</strong></h3>
 <ol start="3">
 <li>
-<p>Processing of the application will take a minimum of two weeks upon receipt
-of all the documents required.</p>
+<p>You will be informed via e-mail if your application has been processed.
+Payment is required before the hotel is issued with a Hotel-Keeper's Licence.</p>
 </li>
 <li>
-<p>You will be informed via SMS and/or e-mail if your application has been
-approved.</p>
-</li>
-<li>
-<p>After the application has been approved, you will receive a copy of the
-Licence via GoBusiness Licensing. Please note that with effect from 1 January
-2025, it is not a requirement under the Hotels Licensing Regulations for
-hotels to display the Licence.</p>
+<p>After payment is verified and the application has been approved, you will
+receive the Licence via GoBusiness Licensing. Please note that with effect
+from 1 January 2025, it is not a requirement under the Hotels Licensing
+Regulations for hotels to display the Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
