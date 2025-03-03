@@ -81,17 +81,15 @@ advertisement will be taken into account in the assessment of the application
 for a Certificate of Registration.</p>
 </li>
 <li>
-<p>You will be informed via e-mail if your application has been processed.
-Payment is required before the hotel is issued with a Certificate of Registration
-and Hotel-Keeper's Licence (note: the Hotel-Keeper's Licence is also re-issued
-as it bears the hotel name).</p>
+<p>You will be informed via e-mail if your application has been successfully
+processed. Payment is required to receive approval for your application
+and obtain your Certificate of Registration. The Hotel-Keeper's Licence
+will be re-issued as it bears the hotel name.</p>
 </li>
 <li>
-<p>After payment is verified and the application has been approved, you will
-receive the Certificate and Licence via GoBusiness Licensing. Please note
-that with effect from 1 January 2025, it is not a requirement under the
-Hotels Licensing Regulations for hotels to display the Certificate and
-Licence.</p>
+<p>Please note that with effect from 1 January 2025, it is not a requirement
+under the Hotels Licensing Regulations for hotels to display the Certificate
+and Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
