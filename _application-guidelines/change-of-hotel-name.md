@@ -10,7 +10,7 @@ variant: tiptap
 via <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>.
 Please note that the hotel shall not change the name of the hotel without
 prior written approval of the Board.</p>
-<h3><strong>At A Glance</strong></h3>
+<h3><strong>At a Glance</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
