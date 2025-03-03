@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Application for a Change of Hotel Name</strong></h3>
 <p>For any change to the Hotel Name, please apply for a Change of Hotel Name
-via <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>{:target="_blank"}.
+via <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>.
 Please note that the hotel shall not change the name of the hotel without
 prior written approval of the Board.</p>
 <h3><strong>At A Glance</strong></h3>
@@ -30,8 +30,8 @@ prior written approval of the Board.</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 30 working days, following completion of advertisement period (14
-calendar days from date of e-notice).</p>
+<p>14 working days, following completion of advertisement period (14 calendar
+days from date of e-notice).</p>
 </td>
 </tr>
 <tr>
@@ -76,25 +76,22 @@ upload the e-notice can be found <a href="/files/resources/guides/submission_of_
 <h3><strong>Approval Process</strong></h3>
 <ol start="3">
 <li>
-<p>Any notice of objection lodged with HLB within two weeks of the advertisement
-will be taken into account in the assessment of the application for a Certificate
-of Registration.</p>
+<p>Any notice of objection lodged with HLB within 14 calendar days of the
+advertisement will be taken into account in the assessment of the application
+for a Certificate of Registration.</p>
 </li>
 <li>
-<p>Processing of the application will take up to 30 working days following
-14 calendar days from the date when the e-notice is published on the HLB
-website.</p>
+<p>You will be informed via e-mail if your application has been processed.
+Payment is required before the hotel is issued with a Certificate of Registration
+and Hotel-Keeper's Licence (note: the Hotel-Keeper's Licence is also re-issued
+as it bears the hotel name).</p>
 </li>
 <li>
-<p>You will be informed via SMS and/or e-mail if your application has been
-approved.</p>
-</li>
-<li>
-<p>After the application has been approved, you will receive the Certificate
-and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence
-is re-issued as it bears the hotel name). Please note that with effect
-from 1 January 2025, it is not a requirement under the Hotels Licensing
-Regulations for hotels to display the Certificate and Licence.</p>
+<p>After payment is verified and the application has been approved, you will
+receive the Certificate and Licence via GoBusiness Licensing. Please note
+that with effect from 1 January 2025, it is not a requirement under the
+Hotels Licensing Regulations for hotels to display the Certificate and
+Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
