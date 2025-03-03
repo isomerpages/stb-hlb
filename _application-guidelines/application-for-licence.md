@@ -16,17 +16,7 @@ Board for the following as stipulated under the Hotels Act 1954:</p>
 <p>Hotel-Keeper's licence to enable the person to manage the hotel</p>
 </li>
 </ul>
-<p>Note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All hotels should have a valid Certificate of Registration and the Hotel-Keeper's
-Licence while the hotel is in operation.</p>
-</li>
-<li>
-<p>The hotel can only begin operations upon approval of the application for
-a Certificate of Registration and Hotel-Keeper's Licence.</p>
-</li>
-</ul>
+<p></p>
 <h3><strong>At A Glance</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -47,9 +37,9 @@ a Certificate of Registration and Hotel-Keeper's Licence.</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 30 working days from the completion of the pre-opening inspection.</p>
+<p>14 working days from the completion of the pre-opening inspection.</p>
 <p></p>
-<p>A pre-opening inspection will be scheduled upon receipt and verification
+<p>A pre-opening inspection will be held after the receipt and verification
 of all required documents, or completion of the e-notice period, whichever
 is later.</p>
 </td>
@@ -77,29 +67,17 @@ $150
 <ol>
 <li>
 <p>Application for the Certificate of Registration and Hotel-Keeper's licence
-is to be submitted online via <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>{:target="_blank"}.</p>
-</li>
-<li>
-<p>Application for the Certificate of Registration and Hotel-Keeper's licence
-for new hotels can be made from 1 January to 30 November only.</p>
-</li>
-<li>
-<p>Please submit all the following documents as attachments together with
-the online application.</p>
+is to be submitted online via <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing</a>.</p>
 </li>
 <li>
 <p>The following documents are required for the application:</p>
-</li>
-<li>
-<p>For the Certificate of Registration:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>For the Certificate of Registration:</strong>
 </p>
 </td>
@@ -114,28 +92,13 @@ the online application.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>URA land use</strong>  <strong>permission </strong>stating the approved
-use of the premises.</p>
-</li>
-</ul>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.acra.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ACRA</a> </strong>business
-profile</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>ACRA business profile</strong> of the business or company</p>
+profile of the business or company</p>
 </li>
 </ul>
 </td>
@@ -145,22 +108,15 @@ profile</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) / BCA's acceptance of the most recent periodic inspection report of the building</strong> from
-the <a href="https://www.bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Building &amp; Construction Authority (BCA)</a>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Under the Building Control Act, all building owners are required to conduct
+the <a href="https://www.bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Building &amp; Construction Authority (BCA)</a>.
+Under the Building Control Act, all building owners are required to conduct
 periodic structural inspections once every 5 years for non-residential
 buildings.</p>
 </li>
 <li>
 <p>If the TOP/CSC is issued more than 5 years ago, please submit documentation
-of <strong>BCA's acceptance of the most recent periodic inspection report</strong> of
-the building.</p>
+of BCA's acceptance of the most recent periodic inspection report of the
+building.</p>
 </li>
 </ul>
 </td>
@@ -170,15 +126,8 @@ the building.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)</strong>  <strong>/ Fire Certificate (FC) </strong>from
-the <a href="https://www.scdf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Civil Defence Force (SCDF)</a> 
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Under the Fire Safety Act, any public buildings use as hotels, hostels,
+the <a href="https://www.scdf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Civil Defence Force (SCDF)</a>.
+Under the Fire Safety Act, any public buildings use as hotels, hostels,
 boarding houses, etc. and if the occupant load of buildings is more than
 200 persons, the building owners or occupiers must apply/obtain Fire Certificates
 from the Singapore Civil Defence Force.</p>
@@ -191,16 +140,9 @@ from the Singapore Civil Defence Force.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>E-notice advertisement </strong>according to the Notice template
-in PDF format</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>The electronic notice ("e-notice") will typically be published on the
-HLB website within 3 working days from the date in which the e-notice is
-submitted with complete information to the Board.</p>
+in PDF format. The electronic notice ("e-notice") will typically be published
+on the HLB website within 3 working days from the date in which the e-notice
+is submitted with complete information to the Board.</p>
 </li>
 <li>
 <p>Any notice of objection lodged with HLB within 14 calendar days of the
@@ -217,14 +159,13 @@ for a Certificate of Registration.</p>
 </table>
 <p></p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>For Hotel-Keeper's Licence:</strong>
 </p>
 </td>
@@ -233,17 +174,10 @@ for a Certificate of Registration.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Resume (Curriculum Vitae) of the proposed Hotel-Keeper</strong>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>The Hotel-Keeper must be a person who holds a post of a Chief Executive
-Officer or General Manager or equivalent to that of a Chief Executive Officer
-or General Manager of the hotel.</p>
+<p><strong>Resume (Curriculum Vitae) of the proposed Hotel-Keeper. </strong>The
+Hotel-Keeper must be a person who holds a post of a Chief Executive Officer
+or General Manager or equivalent to that of a Chief Executive Officer or
+General Manager of the hotel.</p>
 </li>
 </ul>
 </td>
@@ -252,14 +186,8 @@ or General Manager of the hotel.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Copy of proposed Hotel-Keeper's <strong>employment pass</strong> (if applicable)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>The Hotel-Keeper must be a Singaporean, Permanent Resident or an Employment
+<p>Copy of proposed Hotel-Keeper's <strong>employment pass</strong> (if applicable).
+The Hotel-Keeper must be a Singaporean, Permanent Resident or an Employment
 Pass holder.</p>
 </li>
 </ul>
@@ -297,16 +225,22 @@ where a guest or visitor may pass through to access the guest rooms.</p>
 conditions laid down by other Government agencies</p>
 </li>
 </ul>
+<p></p>
 </li>
 <li>
-<p>You will be informed via SMS and/or e-mail if your application has been
-approved.</p>
+<p>You will be informed via e-mail if your application has been processed.
+Payment is required before the hotel is issued with a Certificate of Registration
+and Hotel-Keeper's Licence.</p>
 </li>
 <li>
-<p>After the application has been approved, you will receive the Certificate
-and Licence via GoBusiness Licensing. Please note that with effect from
-1 January 2025, it is not a requirement under the Hotels Licensing Regulations
-for hotels to display the Certificate and Licence.</p>
+<p>After payment is verified and the application has been approved, you will
+receive the Certificate and Licence via GoBusiness Licensing.</p>
+</li>
+<li>
+<p>A hotel may only begin operations after obtaining both a Certificate of
+Registration and a Hotel-Keeper's Licence. Please note that with effect
+from 1 January 2025, it is not a requirement under the Hotels Licensing
+Regulations for hotels to display the Certificate and Licence.</p>
 </li>
 <li>
 <p>The Hotels Licensing Board reserves the right to prescribe additional
