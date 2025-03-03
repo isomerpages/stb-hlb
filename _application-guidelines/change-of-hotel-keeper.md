@@ -19,7 +19,7 @@ of the hotel; and</p>
 <p>Must be a Singaporean, Permanent Resident or an Employment Pass holder.</p>
 </li>
 </ul>
-<h3><strong>At A Glance</strong></h3>
+<h3><strong>At a Glance</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,7 +47,7 @@ of the hotel; and</p>
 <p>Change of Hotel-Keeper Licence Fees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hotel-Keeper's licence fees for hotels of all sizes</strong> -
+<p><strong>Hotel-Keeper's Licence fees for hotels of all sizes</strong> -
 $150
 <br>
 </p>
