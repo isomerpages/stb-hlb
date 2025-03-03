@@ -6,9 +6,9 @@ last_updated: 01-04-2018
 variant: tiptap
 ---
 <h3><strong>Application to Renew Hotel Licence</strong></h3>
-<p>The Hotel licence to operate a hotel will expire on 31 December every
+<p>The hotel licence to operate a hotel will expire on 31 December every
 year, regardless of the date of licence issuance. A Certificate of Registration
-and Hotel-Keeper's licence are required under the Hotels Act to operate
+and Hotel-Keeper's Licence are required under the Hotels Act to operate
 a hotel.</p>
 <p>Applications for the renewal of the Certificate of Registration and Hotel-Keeper's
 licence can only be made in the last quarter of the calendar year. Licensees
@@ -83,7 +83,7 @@ requirements as stated under the <a href="https://www.hlb.gov.sg/application-gui
 </tbody>
 </table>
 <p></p>
-<h3><strong>At A Glance</strong></h3>
+<h3><strong>At a Glance</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -109,7 +109,7 @@ requirements as stated under the <a href="https://www.hlb.gov.sg/application-gui
 <br>(iii) Hotel with 300-499 rooms - $1,100
 <br>(iv) Hotel with 500 or more rooms - $1,450
 <br>
-<br><strong>Hotel-keeper's licence fees for hotels of all sizes</strong> -
+<br><strong>Hotel-keeper's Licence fees for hotels of all sizes</strong> -
 $150
 <br>
 </p>
@@ -134,7 +134,7 @@ licence are to be submitted online via <a href="https://www.gobusiness.gov.sg/li
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>For Renewal of Hotel Licence</p>
+<p>For Renewal of Hotel Licence:</p>
 </th>
 </tr>
 <tr>
@@ -191,19 +191,18 @@ application previously, please submit the latest<strong> Certificate of Statutor
 <h3><strong>Approval Process</strong></h3>
 <ol start="2">
 <li>
-<p>You will be informed via e-mail if your application has been processed.
-Payment is required before the hotel is issued with a renewed Hotel-Keeper's
-Licence. Please note that the Certificate of Registration will not be re-issued.</p>
+<p>You will be informed via e-mail if your application has been successfully
+processed. Payment is required to receive approval for your application
+and obtain your Hotel-Keeper's Licence. Please note that the Certificate
+of Registration will not be re-issued.</p>
 </li>
 <li>
 <p>After payment is verified and the application has been approved, you will
 receive the Certificate and Licence via GoBusiness Licensing.</p>
 </li>
 <li>
-<p>A hotel may only continue operations after obtaining both a Certificate
-of Registration and a Hotel-Keeper's Licence for the following year. Please
-note that with effect from 1 January 2025, it is not a requirement under
-the Hotels Licensing Regulations for hotels to display the Certificate
+<p>Please note that with effect from 1 January 2025, it is not a requirement
+under the Hotels Licensing Regulations for hotels to display the Certificate
 and Licence.</p>
 </li>
 <li>
