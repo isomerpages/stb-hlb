@@ -220,7 +220,7 @@ published date). Checks will include, but are not limited to:</p>
 <li>
 <p>Fully installed and operating electronic video surveillance system at
 all entry/exit points, lobby, front desk/concierge desk and every area
-where a guest or visitor may pass through to access the guest rooms.</p>
+where a guest or visitor may pass through to access the guest rooms</p>
 </li>
 <li>
 <p>Adherence to terms and conditions stated in URA's Written Permission and
