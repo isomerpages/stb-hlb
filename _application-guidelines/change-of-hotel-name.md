@@ -98,11 +98,13 @@ of Registration and/or a Hotel-keeper's Licence.</p>
 </li>
 </ol>
 <h3><strong>For More Information</strong></h3>
-<ol start="8">
+<ol start="7" data-tight="true" class="tight">
 <li>
 <p>The step-by-step guide to guide you through the submission of the application
 for an change of Hotel Name can be found <a href="/files/resources/guides/guide_amendment_of_licence_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
+</ol>
+<ol start="8">
 <li>
 <p>For further clarification, please email hlb_info@hlb.gov.sg or call 6736
 6622.</p>
