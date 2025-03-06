@@ -39,7 +39,8 @@ of the hotel; and</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 working days upon receipt and verification of all the documents required</p>
+<p>Minimum of 14 working days upon receipt and verification of all the documents
+required</p>
 </td>
 </tr>
 <tr>
