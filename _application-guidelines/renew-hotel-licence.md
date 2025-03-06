@@ -130,32 +130,21 @@ licence are to be submitted online via <a href="https://www.gobusiness.gov.sg/li
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Grant of Temporary Permission ("URA Permission")</strong> from
-<a href="https://www.ura.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Urban Redevelopment Authority (URA).</u>
-</a>
-</p>
-</li>
-<li>
-<p>All hotels with <u>expiring</u> URA Grant of Temporary Permission must submit
+<a href="https://www.ura.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Urban Redevelopment Authority (URA). </u>
+</a>All hotels with <u>expiring</u> URA Grant of Temporary Permission must submit
 the latest valid URA Permission.</p>
 </li>
 <li>
 <p><strong>Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)</strong>  <strong>/ Fire Certificate (FC) </strong>from
-the <a href="https://www.scdf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Civil Defence Force (SCDF)</u></a>.</p>
+the <a href="https://www.scdf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Civil Defence Force (SCDF)</u></a>.
+If a Temporary Fire Permit was submitted as part of your hotel licence
+application previously, please submit the latest <strong>Fire Safety Certificate (FSC)</strong>  <strong>/ Fire Certificate (FC). </strong>All
+hotels with expiring Fire Certificates must submit the latest valid Fire
+Certificate.</p>
 </li>
 <li>
-<p>If a Temporary Fire Permit was submitted as part of your hotel licence
-application previously, please submit the latest <strong>Fire Safety Certificate (FSC)</strong>  <strong>/ Fire Certificate (FC).</strong>
-</p>
-</li>
-<li>
-<p>All hotels with expiring Fire Certificates must submit the latest valid
-Fire Certificate.</p>
-</li>
-<li>
-<p><strong>Certificate of Statutory Completion (CSC)</strong> from the <a href="https://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Building &amp; Construction Authority (BCA)</u></a>.</p>
-</li>
-<li>
-<p>If a Temporary Occupation Permit was submitted as part of your hotel licence
+<p><strong>Certificate of Statutory Completion (CSC)</strong> from the <a href="https://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Building &amp; Construction Authority (BCA)</u></a>.
+If a Temporary Occupation Permit was submitted as part of your hotel licence
 application previously, please submit the latest<strong> Certificate of Statutory Completion (CSC)</strong>.</p>
 </li>
 </ul>
