@@ -30,8 +30,8 @@ prior written approval of the Board.</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 working days, following completion of advertisement period (14 calendar
-days from date of e-notice).</p>
+<p>Minimum of 14 working days, following completion of advertisement period
+(14 calendar days from date of e-notice).</p>
 </td>
 </tr>
 <tr>
