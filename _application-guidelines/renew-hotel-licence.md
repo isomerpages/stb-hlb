@@ -212,7 +212,7 @@ of the Certificate of Registration and/or a Hotel-Keeper's Licence.</p>
 </li>
 </ol>
 <h3><strong>For More Information</strong></h3>
-<ol start="4">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p>The step-by-step guide to guide you through the submission of the application
 for a renewal of the Certificate of Registration and Hotel-Keeper's Licence
