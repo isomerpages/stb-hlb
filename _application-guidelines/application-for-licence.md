@@ -37,7 +37,8 @@ stipulated under the Hotels Act 1954:</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 working days from the successful completion of the pre-opening inspection.</p>
+<p>Minimum of 14 working days from the successful completion of the pre-opening
+inspection.</p>
 <p></p>
 <p>A pre-opening inspection will be held after the receipt and verification
 of all required documents, or completion of the e-notice period, whichever
