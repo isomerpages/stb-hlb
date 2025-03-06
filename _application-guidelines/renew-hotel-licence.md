@@ -127,18 +127,6 @@ licence are to be submitted online via <a href="https://www.gobusiness.gov.sg/li
 <p>The following documents are required for the application:</p>
 </li>
 </ol>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>For Renewal of Hotel Licence:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Grant of Temporary Permission ("URA Permission")</strong> from
@@ -150,12 +138,6 @@ licence are to be submitted online via <a href="https://www.gobusiness.gov.sg/li
 <p>All hotels with <u>expiring</u> URA Grant of Temporary Permission must submit
 the latest valid URA Permission.</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)</strong>  <strong>/ Fire Certificate (FC) </strong>from
 the <a href="https://www.scdf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Civil Defence Force (SCDF)</u></a>.</p>
@@ -169,25 +151,14 @@ application previously, please submit the latest <strong>Fire Safety Certificate
 <p>All hotels with expiring Fire Certificates must submit the latest valid
 Fire Certificate.</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC)</strong> from
-the <a href="https://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Building &amp; Construction Authority (BCA)</u></a>.</p>
+<p><strong>Certificate of Statutory Completion (CSC)</strong> from the <a href="https://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Building &amp; Construction Authority (BCA)</u></a>.</p>
 </li>
 <li>
 <p>If a Temporary Occupation Permit was submitted as part of your hotel licence
 application previously, please submit the latest<strong> Certificate of Statutory Completion (CSC)</strong>.</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Approval Process</strong></h3>
 <ol start="2">
 <li>
