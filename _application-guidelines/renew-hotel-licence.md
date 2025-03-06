@@ -149,7 +149,7 @@ application previously, please submit the latest<strong> Certificate of Statutor
 </li>
 </ul>
 <h3><strong>Approval Process</strong></h3>
-<ol start="2">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>You will be informed via e-mail if your application has been successfully
 processed. Payment is required to receive approval for your application
@@ -172,7 +172,7 @@ of the Certificate of Registration and/or a Hotel-Keeper's Licence.</p>
 </li>
 </ol>
 <h3><strong>For More Information</strong></h3>
-<ol start="6" data-tight="true" class="tight">
+<ol start="7" data-tight="true" class="tight">
 <li>
 <p>The step-by-step guide to guide you through the submission of the application
 for a renewal of the Certificate of Registration and Hotel-Keeper's Licence
