@@ -30,8 +30,8 @@ prior written approval of the Board.</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum of 14 working days, following completion of advertisement period
-(14 calendar days from date of e-notice).</p>
+<p>Up to 30 working days from date of complete application received, or completion
+of e-notice period (14 calendar days), whichever is later.</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +67,8 @@ the online application.</p>
 <p><strong>Copy of the advertisement according to the Notice template in PDF format</strong>.
 The electronic notice ("e-notice") will typically be published on the HLB
 website within 3 working days from the date in which the e-notice is submitted
-with complete information to the Board. The step-by-step guide on how to
-upload the e-notice can be found <a href="/files/resources/guides/submission_of_e_notice_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+with complete information to the Board, for a period of 14 calendar days.
+The step-by-step guide on how to upload the e-notice can be found <a href="/files/resources/guides/submission_of_e_notice_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 </li>
