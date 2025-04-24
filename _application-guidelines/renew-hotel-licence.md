@@ -100,6 +100,19 @@ requirements as stated under the <a href="https://www.hlb.gov.sg/application-gui
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Processing Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 30 working days from date of complete application received, or the
+completion of e-notice period (14 calendar days) if applicable, whichever
+is later.</p>
+<p></p>
+<p>Completion of e-notice period is mandatory for applications with a Change
+of Hotel Name only.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Hotel Licence Renewal Fees</p>
 </td>
 <td rowspan="1" colspan="1">
