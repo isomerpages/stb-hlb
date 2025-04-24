@@ -39,8 +39,7 @@ of the hotel; and</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum of 14 working days upon receipt and verification of all the documents
-required</p>
+<p>Up to 30 working days from date of complete application received.</p>
 </td>
 </tr>
 <tr>
