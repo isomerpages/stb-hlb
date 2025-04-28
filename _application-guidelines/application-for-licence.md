@@ -37,12 +37,12 @@ stipulated under the Hotels Act 1954:</p>
 <p>Processing Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum of 14 working days from the successful completion of the pre-opening
-inspection.</p>
+<p>Up to 30 working days from date of complete application received, or completion
+of e-notice period (14 calendar days), or completion of pre-opening inspection,
+whichever is later.</p>
 <p></p>
 <p>A pre-opening inspection will be held after the receipt and verification
-of all required documents, or completion of the e-notice period, whichever
-is later.</p>
+of all required documents.</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,8 @@ from the Singapore Civil Defence Force.</p>
 <p><strong>E-notice advertisement </strong>according to the Notice template
 in PDF format. The electronic notice ("e-notice") will typically be published
 on the HLB website within 3 working days from the date in which the e-notice
-is submitted with complete information to the Board.</p>
+is submitted with complete information to the Board, for a period of 14
+calendar days.</p>
 </li>
 <li>
 <p>Any notice of objection lodged with HLB within 14 calendar days of the
