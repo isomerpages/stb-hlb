@@ -20,10 +20,5 @@ sections:
         - title: Hotels Legislation
           description: Read about the Hotels Act and Licensing Regulations
           url: https://sso.agc.gov.sg/act/ha1954
-  - resources:
-      title: Be in the know
-      subtitle: Resources
-      button: More Resources
-      url: resources/
-notification: "\n"
+notification: ""
 ---
