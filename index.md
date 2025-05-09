@@ -23,7 +23,7 @@ sections:
   - resources:
       title: Be in the know
       subtitle: Resources
-      button: More Resources
-      url: resources/
-notification: "\n"
+      id: resources
+      button: More resources
+notification: ""
 ---
