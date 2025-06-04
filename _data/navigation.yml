@@ -1,0 +1,42 @@
+logo: /images/homepage/logo_hlb.svg
+links:
+  - title: Application Guidelines
+    collection: application-guidelines
+  - title: Legislation
+    sublinks:
+      - title: Hotels Act
+        url: https://sso.agc.gov.sg/act/ha1954
+      - title: Hotels Licensing Regulations
+        url: https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20241101&WholeDoc=1
+      - title: Amendments to HLR (2024)
+        url: /amendments-to-hotels-licensing-regulation/
+  - title: Resources
+    url: /resources/
+    sublinks:
+      - title: Forms and Templates
+        url: /resources/forms-and-templates/
+      - title: Guides
+        url: /resources/guides/
+      - title: Licensed Hotels
+        url: /resources/licensed-hotels
+  - title: Notices
+    url: /2q-2025/
+    sublinks:
+      - title: "2025"
+        url: /2q-2025/
+      - title: "2024"
+        url: /4q-2024/
+      - title: "2023"
+        url: /notices/1a-2023-q4/
+      - title: "2022"
+        url: /notices/1a-2022-q4/
+      - title: "2021"
+        url: /notices/1a-2021-q4/
+      - title: "2020"
+        url: /notices/2a-2020-q4/
+      - title: "2019"
+        url: /notices/3a-2019-q4/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Contact Us
+    url: /contact-us/

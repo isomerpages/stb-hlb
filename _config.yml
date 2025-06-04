@@ -1,0 +1,55 @@
+title: 'Hotels Licensing Board'
+title-abbreviated: HLB
+description: 'The Hotels Licensing Board website is an easy platform to search for types of hotels and  accommodations possessing a valid hotel licence and their locations'
+url: 'https://www.hlb.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+resources_name: resources
+paginate: 12
+paginate_path: '/resources/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/homepage/favicon-hlb.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging.di8olftgqj5p9.amplifyapp.com/
+prod: https://master.di8olftgqj5p9.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: '#233a76'
+  secondary-color: '#009688'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'

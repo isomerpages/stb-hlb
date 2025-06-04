@@ -1,0 +1,9 @@
+collections:
+  application-guidelines:
+    output: true
+    order:
+      - application-for-licence.md
+      - cancellation-of-licence.md
+      - change-of-hotel-keeper.md
+      - change-of-hotel-name.md
+      - renew-hotel-licence.md
