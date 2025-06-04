@@ -13,7 +13,6 @@ locations:
             - days: 'Mon - Fri'
               time: '8.30am - 6.00pm'
               description: 'Closed on Weekends and Public Holidays'
-image-url: null
 contacts:
     - title: 'General Enquiries & Feedback'
       content:
