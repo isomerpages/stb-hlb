@@ -20,11 +20,6 @@ contacts:
       - other: ""
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 6736 9423
-      - email: ""
-      - other: ""
-    title: Fax
-  - content:
       - phone: ""
       - email: ""
       - other: STB provides the Applicant with a platform to report any wrong-doings,
