@@ -14,9 +14,9 @@ sections:
         - title: Notices
           description: View advertisements of applications for a Certificate of Registration
           url: /notices/1a-2021-q3
-        - title: Registered Hotels
-          description: View the list of registered hotels in Singapore
-          url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
+        - title: Licensed Hotels
+          description: View a list of licensed hotels
+          url: https://go.gov.sg/hlb-licensedhotels/
         - title: Hotels Legislation
           description: Read about the Hotels Act and Licensing Regulations
           url: https://sso.agc.gov.sg/act/ha1954
