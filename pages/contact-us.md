@@ -31,7 +31,7 @@ contacts:
           unlawful conduct or malpractices of STB staff that are against the
           public interest. The details of STB’s whistleblowing framework is set
           <a
-          href="https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html">here</a>.
+          href="https://www.stb.gov.sg/about-stb/corporate-governance">here</a>.
     title: Whistleblowing
 feedback: https://www.form.gov.sg/#!/forms/stb/5b963c488b1385000fd04b78
 agency_name: Hotels Licensing Board
