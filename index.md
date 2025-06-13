@@ -2,7 +2,7 @@
 layout: homepage
 title: Hotels Licensing Board
 description: The Hotels Licensing Board website is an easy platform to search
-  for types of hotels and accommodations possessing a valid hotel licence and
+  for types of hotels and  accommodations possessing a valid hotel licence and
   their locations
 permalink: /
 sections:
@@ -25,5 +25,9 @@ sections:
       subtitle: Resources
       id: resources
       button: More resources
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam or visit Scamshield
+  at https://www.scamshield.gov.sg for more information.
+image: /images/isomer-logo.svg
 ---
