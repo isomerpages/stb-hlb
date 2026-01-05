@@ -20,8 +20,10 @@ links:
       - title: Licensed Hotels
         url: /resources/licensed-hotels
   - title: Notices
-    url: /4q-2025/
+    url: /1q-2026/
     sublinks:
+      - title: "2026"
+        url: /1q-2026/
       - title: "2025"
         url: /4q-2025/
       - title: "2024"
